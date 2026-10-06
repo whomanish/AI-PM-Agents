@@ -49,6 +49,10 @@ python3 scripts/package.py
 
 Checksums and member manifests accompany the ZIPs as release assets. Local rebuilds write them to `downloads/`. Rebuilding does not publish anything.
 
+## Privacy and support
+
+See [privacy information](docs/privacy.md) for the instruction-only package's data practices, and [support](docs/support.md) to report installation problems or package defects.
+
 ## License
 
 MIT. Copyright 2026 Manish Jha. See [LICENSE](LICENSE).
