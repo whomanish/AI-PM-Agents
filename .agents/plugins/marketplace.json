@@ -1,0 +1,20 @@
+{
+  "name": "ai-pm-agents",
+  "interface": {
+    "displayName": "AI PM Agents"
+  },
+  "plugins": [
+    {
+      "name": "product-release-doc-writer",
+      "source": {
+        "source": "local",
+        "path": "./product-release-doc-writer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

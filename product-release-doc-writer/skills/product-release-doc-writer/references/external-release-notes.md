@@ -1,0 +1,7 @@
+# External Release Notes
+
+Write for customers or other public readers. First identify the facts confirmed as public, then draft from that subset. Do not treat facts as public merely because they appear in the request for external notes; unlabeled and internal-marked sources are not public evidence. Draft the supported public content, omitting internal facts, and ask a focused question only when public status is essential to a material claim. Lead with what the reader can accomplish, the workflow or problem that matters to them, and how the release helps. Describe the capability and its value in direct, concrete language.
+
+Include availability, setup or use steps, relevant limitations, and resources only when supported and confirmed suitable for public use. Numbered steps are useful when actual steps are documented. Blockquotes may highlight the user outcome or a verified tip. Do not invent navigation, links, plan availability, prerequisites, or workarounds. Omit optional unsupported details or use a specific placeholder when an essential gap remains in a draft. Do not state generic negatives such as “no limitations” or “not available” unless confirmed.
+
+Do not make a previous product limitation the main pitch. Mention past behavior briefly and neutrally only when needed to explain a change, migration, or compatibility detail; keep the current user outcome primary. Do not add future or “Coming Soon” claims unless requested and confirmed public. Keep internal reviewer notes separate from publishable copy.

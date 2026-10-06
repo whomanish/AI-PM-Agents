@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "product-release-doc-writer",
+  "version": "0.1.0",
+  "description": "Draft or revise five product-release documents using supplied evidence and audience boundaries.",
+  "author": {
+    "name": "Manish Jha"
+  },
+  "license": "MIT"
+}
